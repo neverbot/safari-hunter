@@ -114,5 +114,9 @@ If you'd like to make your own changes ensure your Pull Request is made against 
 - [cyrilis](https://github.com/cyrilis): a big thanks to cyrillis for his epub-gen package which I relied upon heavily while integrating my own epub generator
 - [neverbot](https://github.com/neverbot): new features and changes since fork.
 
+## Copyright
+- Copyright (c) 2017 Nico Haenggi
+- Copyright (c) 2019 neverbot, for the new additions (if such thing is applicable)
+
 ## License
 Released under the [MIT License](https://github.com/neverbot/safari-hunter/blob/master/LICENSE)

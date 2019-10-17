@@ -70,7 +70,7 @@ The tool provides the following six options. The options **--bookid, --username,
 * **-b, --bookid <bookid>**
     * the book id of the SafariBooksOnline ePub to be generated
     you can find the book id by having a look at the URL while reading the book
-    e.g. `https://www.safaribooksonline.com/library/view/building-apis-with/9781484224427/A435096_1_En_7_Chapter.html` whereas the id will be `9781484224427`
+    e.g. `https://learning.oreilly.com/library/view/clean-code/9780136083238/` whereas the id will be `9780136083238`
 * **-u, --username <username>**
     * username of the SafariBooksOnline user - must have a **paid/trial membership**, otherwise will not be able to access the books
 * **-p, --password <password>**
@@ -82,14 +82,14 @@ The tool provides the following six options. The options **--bookid, --username,
 
 ### Example
 
-An example showing how a SafariBooksOnline with id **9781484224427** is downloaded and converted into a ePub file **testbook.epub**.
+An example showing how a SafariBooksOnline with id **9780136083238** is downloaded and converted into a ePub file **testbook.epub**.
 ```bash
-safari-hunter -b 9781484224427 -u yourUser -p yourPassword -o /Users/nicohanggi/Desktop/testbook.epub
+safari-hunter -b 9780136083238 -u yourUser -p yourPassword -o /Users/yourUser/Desktop/testbook.epub
 ```
 
-An example showing how a SafariBooksOnline with id **9892595335538** is downloaded and converted into a ePub file **testdebugbook.epub**.
+An example showing how a SafariBooksOnline with id **9780136083238** is downloaded and converted into a ePub file **testdebugbook.epub**.
 ```bash
-safari-hunter -d -b 9781484224427 -u yourUser -p yourPassword -o /Users/nicohanggi/Desktop/testbook.epub
+safari-hunter -d -b 9780136083238 -u yourUser -p yourPassword -o /Users/yourUser/Desktop/testbook.epub
 ```
 If your password contains a hyphen (`-`), your can use single quotes: `-p 'yourPassword'`.
 
@@ -112,7 +112,7 @@ If you'd like to make your own changes ensure your Pull Request is made against 
 ## Credits
 - [Nico Haenggi](http://www.nicohaenggi.com): conception & development
 - [cyrilis](https://github.com/cyrilis): a big thanks to cyrillis for his epub-gen package which I relied upon heavily while integrating my own epub generator
-- [neverbot](https://github.com/neverbot): new changes since fork.
+- [neverbot](https://github.com/neverbot): new features and changes since fork.
 
 ## License
 Released under the [MIT License](https://github.com/neverbot/safari-hunter/blob/master/LICENSE)

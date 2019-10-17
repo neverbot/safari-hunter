@@ -106,7 +106,7 @@ If you discover a bug in the generator, please [search the issue tracker](https:
 If you have a great idea to improve the generator, please [search the feature tracker](https://github.com/nicohaenggi/SafariBooks-Downloader/labels/Feature%20Request) first to ensure someone else hasn't already come up with the same great idea. If it hasn't been requested, please [create a new request](https://github.com/nicohaenggi/SafariBooks-Downloader/issues/new). While you're there vote on other feature requests to let the me know what is most important to you.
 
 ### [Pull Requests](https://github.com/nicohaenggi/SafariBooks-Downloader/pulls)
-If you'd like to make your own changes ensure your Pull Request is made against the  `dev` branch.
+If you'd like to make your own changes ensure your Pull Request is made against the  `develop` branch.
 
 
 ## Credits

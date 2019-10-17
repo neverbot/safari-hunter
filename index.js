@@ -12,6 +12,6 @@ module.exports = require('./lib/cli/index.js');
 
 // # Closing Application
 // make sure the manager gets stopped
-process.on( 'SIGINT', function() {
-  process.exit( );
+process.on('SIGINT', function() {
+  process.exit();
 });

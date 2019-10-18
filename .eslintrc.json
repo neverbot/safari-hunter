@@ -31,7 +31,6 @@
       }
     ],
     "no-console": 1,
-    "no-debugger": 1,
-    "require-atomic-updates": 0
+    "no-debugger": 1
   }
 }

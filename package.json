@@ -2,21 +2,24 @@
   "name": "safaribooks-downloader",
   "version": "1.0.0",
   "description": "a SafariBooksOnline-Downloader and .epub creator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json",
-    "lint-fix": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json --fix"
-  },
-  "bin": {
-    "safaribooks-downloader": "./index.js"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicohaenggi/SafariBooks-Downloader.git"
+    "url": "https://github.com/neverbot/safari-hunter.git"
   },
-  "author": "Nico Hänggi",
   "license": "MIT",
+  "contributors": [
+    "Nico Hänggi <nico@haenggi.ch>",
+    "neverbot <ivan@neverbot.com>"
+  ],
+  "main": "index.js",
+  "bin": {
+    "safari-hunter": "./index.js"
+  },
+  "scripts": {
+    "lint": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json",
+    "lint-fix": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "archiver": "^1.3.0",
     "commander": "^2.20.3",

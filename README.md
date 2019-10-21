@@ -3,7 +3,7 @@ A SafariBooksOnline downloader that generates .epub books for reading offline.
 
 This project was forked from the original [SafariBooks-Downloader](https://github.com/nicohaenggi/SafariBooks-Downloader), created by [Nico Haenggi](http://www.nicohaenggi.com/), currently not maintained.
 
-**_Obviously_** you need to have a paid membership to be able to read and access the books, **this is not a tool to get free books**. It's just to give you the option to be able to read the books you already has access to, but in an offline way.
+**_Obviously_** you need to have a paid membership to be able to read and access the books, **this is not a tool to get free books**. It's just to give you the option to read the books you already has access to, but in an offline way.
 
 ## Use Guide
 

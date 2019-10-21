@@ -9,7 +9,7 @@ This project was forked from the original [SafariBooks-Downloader](https://githu
 
 ### How To Install
 
-Install Node.js. We recommend the **LTS release**. The `safari-hunter` has been tested on most node versions between **v4.4.5 and v.6.9.5** and should therefore cause no problems running on one of these versions. For more information about how to install it on your environment, see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/). To verify your installation, run:
+Install Node.js. For more information about how to install it on your environment, see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/). To verify your installation, run:
 
 ```bash
 node -v

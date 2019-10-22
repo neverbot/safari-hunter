@@ -65,7 +65,7 @@ The tool provides the following six options. The options **--bookid, --username,
 
 * **-h, --help**
     * displays usage information
-* **-V, --version**
+* **-v, --version**
     * displays version number
 * **-b, --bookid <bookid>**
     * the book id of the SafariBooksOnline ePub to be generated

@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/neverbot/safari-hunter)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/neverbot/safari-hunter)
+
 # safari-hunter
 A SafariBooksOnline downloader that generates .epub books for reading offline. 
 
@@ -50,7 +53,7 @@ To verify the installation, please run:
 safari-hunter --version
 ```
 
-If the command returns a version number, you have successfully installed the tool globally. The current release is `v1.0.0`.
+If the command returns a version number, you have successfully installed the tool globally.
 
 ### How To Update
 1. Stop the downloader if it's running. (use control + c to stop it)

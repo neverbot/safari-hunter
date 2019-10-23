@@ -15,7 +15,11 @@ Install Node.js. For more information about how to install it on your environmen
 node -v
 ```
 
-If a version is returned, you did successfully install Node.js. Next up, make sure npm is properly installed. To verify, run:
+If a version is returned, you did successfully install Node.js. 
+
+**Important**: This project has been updated to use ES6 standard modules, instead of traditional CommonJS Modules used in node. To be able to use that feature, you need to execute node using the flag `--experimental-modules` (_already specified in the index.js main file_). Double check your node version is at least v12. It's recommended to use the [Node version manager](https://github.com/nvm-sh/nvm) (`nvm`) to manage different node installations.
+
+Next up, make sure npm is properly installed. To verify, run:
 
 ```bash
 npm -v

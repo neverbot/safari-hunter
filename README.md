@@ -98,7 +98,7 @@ An example showing how a SafariBooksOnline with id **9780136083238** is download
 ```bash
 safari-hunter -d -b 9780136083238 -u yourUser -p yourPassword -o /Users/yourUser/Desktop/testbook.epub
 ```
-If your password contains a hyphen (`-`), your can use single quotes: `-p 'yourPassword'`.
+Tip: If your password contains a hyphen (`-`), a whitespace or some other character that does not allow you to use the command, your can use single quotes: `-p 'yourPassword'`.
 
 ## Features
 - [x] generating ePub with cover image, authors and publisher

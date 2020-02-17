@@ -78,6 +78,9 @@ The tool provides the following six options. The options **--bookid, --username,
     * the book id of the SafariBooksOnline ePub to be generated
     you can find the book id by having a look at the URL while reading the book
     e.g. `https://learning.oreilly.com/library/view/clean-code/9780136083238/` whereas the id will be `9780136083238`
+* **-l, --link <link>**
+    * the link to the SafariBooksOnline ePub to be generated,
+    you can find the link by having a look at the URL while reading the book
 * **-u, --username <username>**
     * username of the SafariBooksOnline user - must have a **paid/trial membership**, otherwise will not be able to access the books
 * **-p, --password <password>**

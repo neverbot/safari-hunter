@@ -122,8 +122,8 @@ If you'd like to make your own changes ensure your Pull Request is made against 
 ## Credits
 - [Nico Haenggi](http://www.nicohaenggi.com): conception & development
 - [cyrilis](https://github.com/cyrilis): a big thanks to cyrillis for his epub-gen package which I relied upon heavily while integrating my own epub generator
-- new additions: [neverbot](https://github.com/neverbot): project updated after fork.
-- new additions: [trobol](https://github.com/trobol): `--link` command line option.
+- [new additions] [neverbot](https://github.com/neverbot): project updated after fork.
+- [new additions] [trobol](https://github.com/trobol): `--link` command line option.
 
 ## Copyright
 - Copyright (c) 2017 Nico Haenggi

@@ -1,6 +1,6 @@
 {
-  "name": "safaribooks-downloader",
-  "version": "2.0.0",
+  "name": "safari-hunter",
+  "version": "2.0.1",
   "description": "a SafariBooksOnline downloader and .epub creator",
   "type": "module",
   "repository": {

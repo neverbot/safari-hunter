@@ -17,8 +17,8 @@
     "safari-hunter": "./index.js"
   },
   "scripts": {
-    "lint": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json",
-    "lint-fix": "./node_modules/eslint/bin/eslint.js . --ext .js --ext .json --fix",
+    "lint": "./node_modules/eslint/bin/eslint.js . --ext .js,.json",
+    "lint:fix": "./node_modules/eslint/bin/eslint.js . --ext .js,.json --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

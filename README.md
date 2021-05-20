@@ -1,6 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/neverbot/safari-hunter)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/neverbot/safari-hunter)
 
+| :warning: **This project has been abandoned**: It was forked from [SafariBooks-Downloader](https://github.com/nicohaenggi/SafariBooks-Downloader), also abandoned, and I made some updates here, to test some ideas, but I'm not going to maintain it. You can fork it and continue the work if you want. |
+| --- |
+
 # safari-hunter
 A SafariBooksOnline downloader that generates .epub books for reading offline. 
 
